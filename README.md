@@ -70,7 +70,7 @@ These filters allow users to explore the sales data from different perspectives.
 
 ## 📁 Project File
 
-<a href="">PROJECT FILE</a>
+<a href="https://github.com/Amrusha25/RETAIL-STORE-ANALYSIS-/blob/main/RETAIL%20STORE%20ANALYSIS.pbix">PROJECT FILE</a>
 
 ## 🚀 Conclusion
 
